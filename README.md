@@ -26,7 +26,7 @@ https://www.mamp.info/en/downloads/
 
 2. **Cloner le dépôt dans C:/MAMP/htdocs** :
    ```bash
-   git clone [https://github.com/Badis-Junia/Projet_Javascript.git](https://github.com/Badis-Junia/Projet_Javascript.git)
+   git clone https://github.com/Badis-Junia/Projet_Javascript.git
    ```
 
 3. **Lancer MAMP et bien faire attention que *ApacheServer* ainsi que *MySQLServer* soient cochés** 
