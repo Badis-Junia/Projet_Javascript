@@ -29,8 +29,10 @@ https://www.mamp.info/en/downloads/
    git clone https://github.com/Badis-Junia/Projet_Javascript.git
    ```
 
-3. **Lancer MAMP et bien faire attention que *ApacheServer* ainsi que *MySQLServer* soient cochés** 
+3. Si pas déjà fait, se rendre sur http://localhost/phpMyAdmin5/ et y ajouter la base de donnée qui sera nommée : "blockmirrordata" et y importer alors la base de donnée qui se trouvera dans SITE/basededonnees/blockmirrordata.sql
 
-4. **Se rendre dans http://localhost/PROJET/SITE/index.html pour pouvoir avoir accès au Site. Se créer un compte puis pouvoir jouer !**
+4. **Lancer MAMP et bien faire attention que *ApacheServer* ainsi que *MySQLServer* soient cochés** 
+
+5. **Se rendre dans http://localhost/PROJET/SITE/index.html pour pouvoir avoir accès au Site. Se créer un compte puis pouvoir jouer !**
 
 Réalisé par DAHI Badis et FARVACQUE Raffaele
