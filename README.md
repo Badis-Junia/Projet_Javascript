@@ -21,7 +21,7 @@ L'objectif de ce projet est de mettre en pratique les concepts fondamentaux et a
 ## 🛠️ Installation et Exécution
 Pour lancer le projet localement, suivez ces étapes :
 
-1. **Installer MAMP ** :
+1. **Installer MAMP** :
 https://www.mamp.info/en/downloads/
 
 2. **Cloner le dépôt dans C:/MAMP/htdocs** :
